@@ -1,0 +1,26 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border box;
+
+}
+html,body{
+    height: 100%;
+    width: 100%;
+
+}
+h2{
+     font-size: 50px;
+     background-color: black;
+     color: aqua;
+     font-style: italic;
+     text-align: center;
+}
+div{
+    height:80px;
+    width:40px;
+    background-color: brown;
+}
+#box2{
+    background-color: black;
+}
